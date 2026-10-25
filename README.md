@@ -167,7 +167,7 @@ P. L. Government Polytechnic, Latur
   </a>
 </p>
 
-> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+> 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer wave" />
