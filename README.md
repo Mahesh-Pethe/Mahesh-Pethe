@@ -122,7 +122,7 @@ A payment and order-management application built around Stripe Checkout and back
 **Software Engineer Intern — BECIS, Pune**  
 *July 2024 – December 2024*
 
-- Developed and maintained web applications using PHP, CodeIgniter, JavaScript, HTML, CSS, Bootstrap, and MySQL.
+- Developed and maintained web applications using java, SpringBoot, JavaScript, HTML, CSS, Bootstrap, and MySQL.
 - Optimized SQL queries, contributing to an approximately 30% reduction in average page-load time.
 - Debugged production issues and collaborated with the development team through Agile sprint planning and daily stand-ups.
 
@@ -149,12 +149,7 @@ P. L. Government Polytechnic, Latur
 
 ---
 
-## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshpethe&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheshpethe&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
-</p>
 
 ---
 
