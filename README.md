@@ -1,65 +1,173 @@
-<!-- Profile header with animated typing SVG -->
+<!-- Animated profile header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Pethe;I'm+a+Passionate+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Pethe;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL" alt="Typing SVG" />
 </h1>
 
-<!-- Profile view counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheshpethe&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=maheshpethe&label=Profile%20views&color=brightgreen&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/maheshpethe">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="mailto:maheshpethe2222@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Software Engineer from India 🇮🇳  
-- 💻 Skilled in: **Java**, **PHP**, **C++**, **MySQL**
-- 🌱 Passionate about coding, clean architecture, and databases
-- 🚀 Eager to learn and grow in full-stack development
-- 📫 Reach me anytime at **maheshpethe2222@gmail.com**
+I'm a software developer focused on building secure and maintainable backend applications using Java and the Spring ecosystem.
+
+- ☕ Working with Java 21, Spring Boot, Spring MVC, and Spring Security.
+- 🔐 Implementing REST APIs, JWT authentication, BCrypt, and role-based access control.
+- 🗄️ Working with MySQL, Hibernate ORM, Spring Data JPA, and SQL.
+- 🧪 Practicing unit testing with JUnit 5 and Mockito.
+- 🤖 Exploring AI-powered applications using Spring AI, RAG, and Ollama.
+- 💳 Building payment workflows using Stripe integration.
+- 🌱 Continuously improving problem-solving, clean code, and backend architecture.
+
+📫 **Email:** maheshpethe2222@gmail.com
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Technical Skills
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,cpp,python,js" alt="Java, PHP, C++, Python, JavaScript" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Spring, Hibernate, Maven" />
+</p>
+
+Java 21 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Hibernate ORM · JDBC · REST APIs · Dependency Injection · Global Exception Handling
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,redis" alt="MySQL and Redis" />
+</p>
+
+MySQL · SQL · Database Transactions · Query Optimization
+
+### Security and Testing
+
+- **Security:** JWT, BCrypt, RBAC, OAuth 2.0 fundamentals
+- **Testing:** JUnit 5, Mockito, Postman, API Testing
+- **API Documentation:** Swagger / OpenAPI
+
+### Tools and Development Practices
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,maven,docker,jenkins,linux,vscode,eclipse" alt="Git, GitHub, Maven, Docker, Jenkins, Linux, VS Code, Eclipse" />
+</p>
+
+Git · GitHub · Bitbucket · Maven · Docker fundamentals · Jenkins fundamentals · Linux · Agile/Scrum · SOLID Principles · Clean Code
+
+---
+
+## 🚀 Featured Projects
+
+### 1. ZeroStore — Privacy-First Document Processing Platform
+
+A backend application focused on authentication, secure API access, and privacy-conscious document processing.
+
+- Developed REST APIs using a layered Controller–Service–Repository architecture.
+- Implemented user registration and authentication using Spring Security and BCrypt.
+- Integrated JWT authentication with HMAC-SHA256 signing.
+- Used Servlet Filters and Spring MVC Interceptors for request-processing concerns.
+
+**Tech Stack:** Java 21, Spring Boot, Spring Security, JWT, Hibernate, MySQL.
+
+<!-- Replace YOUR-REPOSITORY with your actual repository name -->
+[View Source Code](https://github.com/maheshpethe)
+
+### 2. DocuMind AI — Intelligent Document Assistant
+
+An AI-assisted document application designed for natural-language question answering and summarization.
+
+- Explored Retrieval-Augmented Generation (RAG), text extraction, chunking, embeddings, and semantic search.
+- Integrated locally hosted language models through Ollama.
+- Connected a Spring Boot backend with a React frontend and MySQL.
+
+**Tech Stack:** Java 21, Spring Boot, Spring AI, React, MySQL, Ollama.
+
+[View Source Code](https://github.com/maheshpethe)
+
+### 3. PayFlow — Stripe Payment Integration System
+
+A payment and order-management application built around Stripe Checkout and backend payment workflows.
+
+- Implemented server-side payment verification and webhook signature validation.
+- Added idempotent payment-event processing to handle duplicate events safely.
+- Developed refund and transaction-history features.
+- Used JUnit 5 and Mockito for backend testing.
+
+**Tech Stack:** Java 21, Spring Boot, Spring Security, Spring Data JPA, Hibernate, MySQL, Stripe, React.
+
+[View Source Code](https://github.com/maheshpethe)
+
+---
+
+## 💼 Professional Experience
+
+**Software Engineer Intern — BECIS, Pune**  
+*July 2024 – December 2024*
+
+- Developed and maintained web applications using PHP, CodeIgniter, JavaScript, HTML, CSS, Bootstrap, and MySQL.
+- Optimized SQL queries, contributing to an approximately 30% reduction in average page-load time.
+- Debugged production issues and collaborated with the development team through Agile sprint planning and daily stand-ups.
+
+---
+
+## 🎓 Education
+
+**B.Tech — Artificial Intelligence & Machine Learning**  
+G. H. Raisoni College of Engineering & Management, Pune  
+*November 2022 – May 2025* · CGPA: 7.41/10
+
+**Diploma — Information Technology**  
+P. L. Government Polytechnic, Latur  
+*July 2020 – August 2022* · 86.88%
+
+---
+
+## 📜 Certifications
+
+- Java and SQL Development Program — EXL & TNS India Foundation
+- Software Engineering Job Simulation — HPE / Forage
+- SQL — HackerRank
+- Full Stack using Java; Java & Bootstrap — Z Combinator
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=maheshpethe&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheshpethe&theme=tokyonight&hide_border=true" height="165" alt="GitHub contribution streak" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshpethe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=maheshpethe&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
-### 📬 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="mailto:maheshpethe2222@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/maheshpethe">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <!-- Add your actual LinkedIn profile URL here -->
 </p>
 
----
+> “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
-### ✨ Favorite Quote
-
-> “Code is like humor. When you have to explain it, it’s bad.” — *Cory House*
-
----
-
-<!-- Footer wave animation for aesthetic ending -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" alt="Footer wave" />
 </p>
