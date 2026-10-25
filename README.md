@@ -1,3 +1,4 @@
+
 <!-- Animated profile header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F70000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahesh+Pethe;Java+Backend+Developer;Spring+Boot+%7C+REST+APIs+%7C+MySQL" alt="Typing SVG" />
@@ -8,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/maheshpethe">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  <a href="https://leetcode.com/u/MaheshPethe/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile" />
   </a>
   <a href="mailto:maheshpethe2525@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -30,19 +31,20 @@ I'm a software developer focused on building secure and maintainable backend app
 - 💳 Building payment workflows using Stripe integration.
 - 🌱 Continuously improving problem-solving, clean code, and backend architecture.
 
-📫 **Email:** maheshpethe2222@gmail.com
+📫 **Email:** maheshpethe2525@gmail.com
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,cpp,python,js" alt="Java, JavaScript, React
- " />
+  <img src="https://skillicons.dev/icons?i=java,php,cpp,python,js" alt="Java, PHP, C++, Python, JavaScript" />
 </p>
 
 ### Backend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=spring,hibernate,maven" alt="Spring, Hibernate, Maven" />
 </p>
@@ -50,6 +52,7 @@ I'm a software developer focused on building secure and maintainable backend app
 Java 21 · Spring Boot · Spring MVC · Spring Security · Spring Data JPA · Hibernate ORM · JDBC · REST APIs · Dependency Injection · Global Exception Handling
 
 ### Databases
+
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,redis" alt="MySQL and Redis" />
 </p>
@@ -63,6 +66,7 @@ MySQL · SQL · Database Transactions · Query Optimization
 - **API Documentation:** Swagger / OpenAPI
 
 ### Tools and Development Practices
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,maven,docker,jenkins,linux,vscode,eclipse" alt="Git, GitHub, Maven, Docker, Jenkins, Linux, VS Code, Eclipse" />
 </p>
@@ -84,7 +88,6 @@ A backend application focused on authentication, secure API access, and privacy-
 
 **Tech Stack:** Java 21, Spring Boot, Spring Security, JWT, Hibernate, MySQL.
 
-<!-- Replace YOUR-REPOSITORY with your actual repository name -->
 [View Source Code](https://github.com/maheshpethe)
 
 ### 2. DocuMind AI — Intelligent Document Assistant
@@ -158,13 +161,15 @@ P. L. Government Polytechnic, Latur
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:maheshpethe2222@gmail.com">
+  <a href="mailto:maheshpethe2525@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://leetcode.com/u/MaheshPethe/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://github.com/maheshpethe">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- Add your actual LinkedIn profile URL here -->
 </p>
 
 > “Code is like humor. When you have to explain it, it’s bad.” — Cory House
