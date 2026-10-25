@@ -11,7 +11,7 @@
   <a href="https://github.com/maheshpethe">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
   </a>
-  <a href="mailto:maheshpethe2222@gmail.com">
+  <a href="mailto:maheshpethe2525@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -38,7 +38,8 @@ I'm a software developer focused on building secure and maintainable backend app
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,cpp,python,js" alt="Java, PHP, C++, Python, JavaScript" />
+  <img src="https://skillicons.dev/icons?i=java,php,cpp,python,js" alt="Java, JavaScript, React
+ " />
 </p>
 
 ### Backend Development
